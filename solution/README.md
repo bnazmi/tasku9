@@ -39,3 +39,8 @@ Using Zoho <br />
 4️⃣ Add actions are executed on various events in the form `IT_Asset_Request`, while a record is being created or edited <br /> <br />
 ![Add actions](./img/add_action.gif?raw=true "Add actions")  <br /> <br />
 
+5️⃣  After that make a script to execute based on Added Time because you ask me to make a preventive maintenance report (annually, quarterly, monthly) by sending email to IT technician <br />
+
+6️⃣ Make a maintenance report form after the maintenance service to be filled up by the IT technician <br />
+
+7️⃣ make history for every asset and maintenance report .
